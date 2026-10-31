@@ -1,6 +1,6 @@
 # Universal RenPy Translator
 
-**Leer en otros idiomas:** [Русский](README.ru.md) | [简体中文](README.zh.md) | **Español** | [Français](README.fr.md) | [日本語](README.ja.md) | [العربية](README.ar.md)
+**Leer en otros idiomas:** [English](README.md) | [Русский](README.ru.md) | [简体中文](README.zh.md) | **Español** | [Français](README.fr.md) | [日本語](README.ja.md) | [العربية](README.ar.md)
 
 Universal RenPy Translator es una potente aplicación de escritorio multiplataforma diseñada para la traducción offline de novelas visuales de Ren'Py. Utiliza modelos de IA locales a través de **Ollama** para ofrecer traducciones de alta calidad y sin censura, sin enviar tu texto a servidores de terceros.
 
