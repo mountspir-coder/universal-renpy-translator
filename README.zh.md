@@ -1,6 +1,6 @@
 # Universal RenPy Translator
 
-**其他语言版本：** [Русский](README.ru.md) | **简体中文** | [Español](README.es.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [العربية](README.ar.md)
+**其他语言版本：** [English](README.md) | [Русский](README.ru.md) | **简体中文** | [Español](README.es.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [العربية](README.ar.md)
 
 Universal RenPy Translator 是一款功能强大的跨平台桌面应用程序，专为离线翻译 Ren'Py 视觉小说而设计。它通过 **Ollama** 使用本地 AI 模型，提供高质量、无删减的翻译，不会将您的文本发送到第三方服务器。
 
