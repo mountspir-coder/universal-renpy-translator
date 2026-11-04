@@ -88,7 +88,8 @@ Thank you for your support! ❤️
 
 ## 📄 License & Credits
 
-- **HY-MT1.5 7B Abliterated** translation model is developed by Tencent Hunyuan Team under the Hunyuan Open Source License v1.0. 
-- This product includes models developed by Tencent Hunyuan Team. 
-- License: [https://hunyuan.tencent.com/license](https://hunyuan.tencent.com/license)
+- **HY-MT1.5 7B Abliterated** translation model is developed by Tencent Hunyuan Team under the Hunyuan Open Source License v1.0.
+- **Hy-MT2-7B-Abliterated** model is based on Tencent's model and is distributed under the **Apache 2.0 License** (abliteration and GGUF conversion by the open-source community).
+- This product includes models developed by Tencent Hunyuan Team.
+- License links: [Hunyuan License](https://hunyuan.tencent.com/license) and [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 - Ren'Py is a trademark of Tom Rothamel. This application is not affiliated with the official Ren'Py team.
