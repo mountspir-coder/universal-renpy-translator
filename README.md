@@ -11,7 +11,7 @@ This repository is for the compiled releases. The source code is closed.
 ## ✨ Features
 
 - **100% Offline & Unlimited:** No API keys required, no character limits. Your texts never leave your computer, and translation will never be interrupted by server errors.
-- **Uncensored 18+ Translation:** Uses the `HY-MT1.5 7B Abliterated` model and a built-in profanity glossary to preserve the original tone, slang, and mature content without artificial softening.
+- **Uncensored 18+ Translation:** Uses powerful local AI models (HY-MT1.5 & Hy-MT2) and a built-in profanity glossary to preserve the original tone, slang, and mature content without artificial softening.
 - **In-Game Overlay Injection:** Injects a floating language switcher directly into the game, allowing seamless switching between original and translated text.
 - **All-in-One & 2-Click Setup:** Auto-unpacks RPA archives, decompiles `.rpyc` files, and lets you launch the translated game directly from the app.
 - **Broad Ren'Py Support:** Works flawlessly with Ren'Py 6, 7, and 8+ engines.
