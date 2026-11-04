@@ -86,9 +86,10 @@ Universal RenPy Translator 完全免费，对所有人开放。如果您觉得�
 
 ---
 
-## 📄 许可证 & 致谢
+## 📄 许可证与致谢
 
-- **HY-MT1.5 7B Abliterated** 翻译模型由腾讯混元团队根据混元开源许可证 v1.0 开发。
-- 本产品包含腾讯混元团队开发的模型。
-- 许可证：[https://hunyuan.tencent.com/license](https://hunyuan.tencent.com/license)
-- Ren'Py 是 Tom Rothamel 的商标。本应用程序与官方 Ren'Py 团队无关。
+- **HY-MT1.5 7B Abliterated** 翻译模型由腾讯混元团队根据 Hunyuan 开源许可证 v1.0 开发。
+- **Hy-MT2-7B-Abliterated** 模型基于腾讯模型，在 **Apache 2.0 许可证** 下分发（去审查和 GGUF 转换由开源社区完成）。
+- 本产品包含由腾讯混元团队开发的模型。
+- 许可证链接：[Hunyuan License](https://hunyuan.tencent.com/license) 和 [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)。
+- Ren'Py 是 Tom Rothamel 的商标。本应用程序与官方的 Ren'Py 团队无关。
