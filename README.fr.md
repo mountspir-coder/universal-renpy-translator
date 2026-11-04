@@ -11,7 +11,7 @@ Ce dépôt est destiné aux versions compilées. Le code source est fermé.
 ## ✨ Fonctionnalités
 
 - **100% Hors ligne et illimité :** Aucune clé API requise, aucune limite de caractères. Vos textes ne quittent jamais votre ordinateur et la traduction ne sera jamais interrompue par des erreurs de serveur.
-- **Traduction 18+ non censurée :** Utilise le modèle `HY-MT1.5 7B Abliterated` et un glossaire d'obscénités intégré pour préserver le ton original, l'argot et le contenu pour adultes sans adoucissement artificiel.
+- **Traduction 18+ non censurée :** Utilise de puissants modèles d'IA locaux (HY-MT1.5 et Hy-MT2) et un glossaire dédié au langage grossier pour préserver le ton original, l'argot et le contenu mature sans édulcoration.
 - **Injection d'overlay en jeu :** Injecte un sélecteur de langue flottant directement dans le jeu, permettant de basculer de manière transparente entre le texte original et le texte traduit.
 - **Tout-en-un et configuration en 2 clics :** Décompresse automatiquement les archives RPA, décompile les fichiers `.rpyc` et vous permet de lancer le jeu traduit directement depuis l'application.
 - **Large prise en charge de Ren'Py :** Fonctionne parfaitement avec les moteurs Ren'Py 6, 7 et 8+.
