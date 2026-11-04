@@ -88,7 +88,8 @@ Universal RenPy Translator абсолютно бесплатен и доступ
 
 ## 📄 Лицензия и благодарности
 
-- Модель перевода **HY-MT1.5 7B Abliterated** разработана командой Tencent Hunyuan Team под лицензией Hunyuan Open Source License v1.0.
-- Этот продукт включает модели, разработанные Tencent Hunyuan Team.
-- Лицензия: [https://hunyuan.tencent.com/license](https://hunyuan.tencent.com/license)
+- Модель перевода **HY-MT1.5 7B Abliterated** разработана командой Tencent Hunyuan по лицензии Hunyuan Open Source License v1.0.
+- Модель **Hy-MT2-7B-Abliterated** основана на модели Tencent и распространяется по лицензии **Apache 2.0** (снятие цензуры и конвертация в GGUF выполнены сообществом).
+- Продукт включает модели, разработанные командой Tencent Hunyuan.
+- Ссылки на лицензии: [Hunyuan License](https://hunyuan.tencent.com/license) и [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 - Ren'Py является торговой маркой Tom Rothamel. Это приложение не связано с официальной командой Ren'Py.
