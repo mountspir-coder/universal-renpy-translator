@@ -11,7 +11,7 @@ Este repositorio es para las versiones compiladas. El código fuente es cerrado.
 ## ✨ Características
 
 - **100% Offline e Ilimitado:** No se requieren claves API ni hay límites de caracteres. Tus textos nunca salen de tu ordenador y la traducción nunca se interrumpirá por errores del servidor.
-- **Traducción 18+ Sin Censura:** Utiliza el modelo `HY-MT1.5 7B Abliterated` y un glosario de obscenidades integrado para preservar el tono original, la jerga y el contenido para adultos sin suavizarlo artificialmente.
+- **Traducción 18+ Sin Censura:** Utiliza potentes modelos de IA locales (HY-MT1.5 y Hy-MT2) y un glosario de palabras malsonantes para preservar el tono original, la jerga y el contenido para adultos sin suavizar.
 - **Inyección de Overlay en el Juego:** Inyecta un selector de idioma flotante directamente en el juego, permitiendo cambiar sin problemas entre el texto original y el traducido.
 - **Todo en Uno y Configuración en 2 Clics:** Descomprime automáticamente los archivos RPA, descompila los archivos `.rpyc` y te permite lanzar el juego traducido directamente desde la aplicación.
 - **Amplio Soporte para Ren'Py:** Funciona a la perfección con los motores Ren'Py 6, 7 y 8+.
